@@ -1,0 +1,52 @@
+assets/external/
+__pycache__/
+*.py[cod]
+*.db
+.web
+# Archivos y directorios de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos de configuración de Reflex
+.pcconfig/
+.reflex/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Archivos del compilador de Reflex
+frontend/static/
+frontend/node_modules/
+frontend/.next/
+frontend/package-lock.json
+frontend/yarn.lock
+
+# Archivos de dependencias
+*.egg-info/
+*.dist-info/
+pip-wheel-metadata/
+__pypackages__/
+
+# Otros archivos generados
+*.sqlite3
+*.db
+*.tar
+*.zip
+*.gz
+
+# Archivos ocultos de control de versiones
+.git/
