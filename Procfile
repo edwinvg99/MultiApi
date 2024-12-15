@@ -1,1 +1,1 @@
-web: reflex run --no-frontend
+web: reflex run --frontend-only
